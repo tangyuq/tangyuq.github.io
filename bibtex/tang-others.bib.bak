@@ -1,0 +1,116 @@
+% This file was created with JabRef 2.10b2.
+% Encoding: Cp1252
+
+
+@Article{pan08Additivepreconditioningand,
+  Title                    = {Additive preconditioning and aggregation in matrix computations},
+  Author                   = {Victor Y. Pan and Dmitriy Ivolgin and Brian Murphy and Rhys Eric Rosholt and Islam Taj-Eddin and Yuqing Tang and Xiaodong Yan},
+  Journal                  = {Computers and Mathematics with Applications},
+  Year                     = {2008},
+  Number                   = {8},
+  Pages                    = {1870--1886},
+  Volume                   = {55},
+
+  Address                  = {Tarrytown, NY, USA},
+  B2h_pubtype              = {Journal},
+  B2h_rescat               = {Matrix Eigen Solving and Polynomial Root-findings},
+  Doi                      = {10.1016/j.camwa.2004.03.022},
+  ISSN                     = {0898-1221},
+  Owner                    = {tang},
+  Publisher                = {Pergamon Press, Inc.},
+  Timestamp                = {2008.08.18}
+}
+
+@InProceedings{pan08additivepreconditioningin,
+  Title                    = {Additive preconditioning in matrix computations},
+  Author                   = {Victor Y. Pan and Dmitriy Ivolgin and Brian Murphy and Rhys Eric Rosholt and Islam Taj-Eddin and Yuqing Tang and Xiaodong Yan},
+  Booktitle                = {Proceedings of the Third International Computer Science Symposium},
+  Year                     = {2008},
+
+  B2h_nopdf                = {true},
+  B2h_pubtype              = {Refereed Workshop and Symposium},
+  B2h_rescat               = {Matrix Eigen Solving and Polynomial Root-findings},
+  Owner                    = {tang},
+  Timestamp                = {2008.08.18}
+}
+
+@InProceedings{pan07Realroot-finding,
+  Title                    = {Real root-finding},
+  Author                   = {Victor Y. Pan and Dmitriy Ivolgin and Brian Murphy and Rhys Eric Rosholt and Yuqing Tang and Xinmao Wang and Xiaodong Yan},
+  Booktitle                = {Proceedings of the International Workshop on Symbolic-Numeric Computation},
+  Year                     = {2007},
+  Editor                   = {Stephen M. Watt and Jan Verschelde},
+  Month                    = {July},
+  Pages                    = {161-169},
+  Publisher                = {ACM},
+
+  B2h_nopdf                = {true},
+  B2h_pubtype              = {Refereed Workshop and Symposium},
+  B2h_rescat               = {Matrix Eigen Solving and Polynomial Root-findings},
+  Bibsource                = {DBLP, http://dblp.uni-trier.de},
+  Ee                       = {http://doi.acm.org/10.1145/1277500.1277524},
+  Owner                    = {tang},
+  Timestamp                = {2008.08.18}
+}
+
+@Article{pan06LinkingTPR1DPR1,
+  Title                    = {Linking the {TPR1}, {DPR1} and {A}rrow-head {M}atrix {S}tructures},
+  Author                   = {Victor Y. Pan and Mikhail Kunin and Brian Murphy and Rhys Eric Rosholt and Yuqing Tang and Xiaodong Yan and Wenbo Cao},
+  Journal                  = {Computers and Mathematics with Applications},
+  Year                     = {2006},
+
+  Month                    = {November-December},
+  Number                   = {10-11},
+  Pages                    = {1603-1608},
+  Volume                   = {52},
+
+  B2h_pubtype              = {Journal},
+  B2h_rescat               = {Matrix Eigen Solving and Polynomial Root-findings},
+  Doi                      = {10.1016/j.camwa.2005.04.020},
+  Owner                    = {tang},
+  Timestamp                = {2008.08.18}
+}
+
+@InCollection{pan07Root-findingwithEigen-solving,
+  Title                    = {Root-finding with {E}igen-solving},
+  Author                   = {Victor Y. Pan and Brian Murphy and Rhys Eric Rosholt and Guoliang Qian and Yuqing Tang},
+  Booktitle                = {Symbolic-Numeric Computation},
+  Year                     = {2007},
+  Editor                   = {Dongming Wang and Lihong Zhi},
+  Pages                    = {185-210},
+
+  B2h_nopdf                = {true},
+  B2h_pubtype              = {Book Chapter},
+  B2h_rescat               = {Matrix Eigen Solving and Polynomial Root-findings},
+  Journal                  = {Symbolic-Numeric Computation},
+  Owner                    = {tang},
+  Timestamp                = {2008.08.18}
+}
+
+@Article{pan08Eigen-solvingviareduction,
+  Title                    = {Eigen-solving via reduction to {DPR1} matrices},
+  Author                   = {Victor Y. Pan and Brian Murphy and Rhys Eric Rosholt and Yuqing Tang and Xinmao Wang and Ailong Zheng},
+  Journal                  = {Computers and Mathematics with Applications},
+  Year                     = {2008},
+  Number                   = {1},
+  Pages                    = {166--171},
+  Volume                   = {56},
+
+  Address                  = {Tarrytown, NY, USA},
+  B2h_pubtype              = {Journal},
+  B2h_rescat               = {Matrix Eigen Solving and Polynomial Root-findings},
+  Doi                      = {10.1016/j.camwa.2007.09.012},
+  ISSN                     = {0898-1221},
+  Owner                    = {tang},
+  Publisher                = {Pergamon Press, Inc.},
+  Timestamp                = {2008.08.19}
+}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+

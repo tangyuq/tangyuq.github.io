@@ -1,0 +1,80 @@
+{{#Journal.length}}
+<h3>Journal</h3>
+<ol>
+{{#Journal}}  
+    <li> 
+      {{>pubItem}}
+    </li>   
+{{/Journal}}
+</ol>
+{{/Journal.length}}
+
+
+{{#Refereed Major Conference.length}}
+<h3>Refereed Major Conference</h3>
+<ol>
+{{#Refereed Major Conference}}  
+    <li> 
+      {{>pubItem}}
+    </li>   
+{{/Refereed Major Conference}}
+</ol>
+{{/Refereed Major Conference.length}}
+
+{{#Refereed Conference.length}}
+<h3>Refereed Conference</h3>
+<ol>
+{{#Refereed Conference}}  
+    <li> 
+      {{>pubItem}}
+    </li>   
+{{/Refereed Conference}}
+</ol>
+{{/Refereed Conference.length}}
+
+{{#Refereed Workshop and Symposium.length}}
+<h3>Refereed Workshop and Symposium</h3>
+<ol>
+{{#Refereed Workshop and Symposium}}  
+    <li> 
+      {{>pubItem}}
+    </li>   
+{{/Refereed Workshop and Symposium}}
+</ol>
+{{/Refereed Workshop and Symposium.length}}
+
+
+{{#Book Chapter.length}}
+<h3>Book Chapter</h3>
+<ol>
+{{#Book Chapter}}  
+    <li> 
+      {{>pubItem}}
+    </li>   
+{{/Book Chapter}}
+</ol>
+{{/Book Chapter.length}}
+
+
+{{#Tech Report.length}}
+<h3>Tech Report</h3>
+<ol>
+{{#Tech Report}}  
+    <li> 
+      {{>pubItem}}
+    </li>   
+{{/Tech Report}}
+</ol>
+{{/Tech Report.length}}
+
+
+{{#undefined.length}}
+<h3>undefined</h3>
+<ol>
+{{#undefined}}  
+    <li> 
+      {{>pubItem}}
+    </li>   
+{{/undefined}}
+</ol>
+{{/undefined.length}}

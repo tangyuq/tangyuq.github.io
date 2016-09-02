@@ -1,0 +1,7 @@
+<ol>
+{{#entries}}  
+    <li> 
+      {{>pubItem}}
+    </li>   
+{{/entries}}
+</ol>

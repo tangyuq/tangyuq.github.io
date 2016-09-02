@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Yuqing Tang</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.2800.1400" name="GENERATOR">
+<link rel="stylesheet" href="../homepage.css" type="text/css">
+<style type="text/css"></style>
+</head>
+<body style="background-color: rgb(255, 255, 255); background-image: url();">
+   
+<!--#include virtual="head.htm" -->
+   
+<div id="content">
+<h2>Publications</h2>
+<p><big>&#8226;
+  <a href="sort_date.htm">Sorted by Date</a> &#8226;
+  <a href="class_type.htm">Classified by Publication Type</a> &#8226;
+  <a href="class_rescat.htm">Classified by Research Category</a> &#8226;
+  <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tang:Yuqing.html" target="_blank">DBLP</a>
+  &#8226;
+<a href="http://portal.acm.org/author_page.cfm?id=81100641069" target="_blank">ACM profile</a> 
+  &#8226;
+  </big></p>
+<h3><b> Additive preconditioning in matrix computations</b></h3>
+<p class="citation"><a href="http://comet.lehman.cuny.edu/vpan"> Victor Y. Pan</a>,  Dmitriy Ivolgin,  Brian Murphy,  Rhys Eric	Rosholt,  Islam Taj-Eddin, <a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>, and  Xiaodong Yan. <b> Additive preconditioning in matrix computations</b>. In <i> Proceedings of the Third International Computer Science Symposium</i>, 2008.</p>
+<h3>Download</h3>
+<p>
+  (unavailable)
+  </p>
+<h3>Abstract</h3>
+<p class="abstract">
+      (unavailable)
+     </p>
+<a href="pan08additivepreconditioningin.bib"><h3>BibTeX</h3></a><pre>@INPROCEEDINGS{pan08additivepreconditioningin,
+  author = {Victor Y. Pan and Dmitriy Ivolgin and Brian Murphy and Rhys Eric
+	Rosholt and Islam Taj-Eddin and Yuqing Tang and Xiaodong Yan},
+  title = {Additive preconditioning in matrix computations},
+  booktitle = {Proceedings of the Third International Computer Science Symposium},
+  year = {2008},
+  b2h_pubtype = {Refereed Workshop and Symposium},
+  b2h_rescat = {Matrix Eigen Solving and Polynomial Root-findings},
+  owner = {tang},
+  timestamp = {2008.08.18}
+}
+</pre>
+</div>
+   
+<!--#include virtual="leftnav.htm" -->
+<!--#include virtual="sitefoot.htm" -->
+   
+</body>
+</html>

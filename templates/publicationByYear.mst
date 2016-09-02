@@ -1,0 +1,10 @@
+{{#groupByYear}}
+<h3>{{key}}</h3>
+<ol>
+{{#value}}  
+    <li> 
+      {{>pubItem}}
+    </li>   
+{{/value}}
+</ol>
+{{/groupByYear}}

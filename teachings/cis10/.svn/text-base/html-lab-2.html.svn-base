@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<title>HTML tags for Lab 4</title>
+</head>
+
+<body>
+<h3> <a href="html-lab-1.html">Tags used in lab 3 are still needed.</a> </h3>
+
+<h3>Tags and attributes needed for lab 4</h3>
+<ul>
+  <li><a href="http://www.w3schools.com/tags/tag_body.asp">&lt;BODY&gt; ... &lt;/BODY&gt;</a>: Backgroud color or image is set through this tag.
+    <ul>
+      <li>For background color setting, please look at [<a href="http://www.w3schools.com/tags/tryit.asp?filename=tryhtml_bodybgcol">link</a>]. </li>
+      <li>For background image setting, please look at [<a href="http://www.w3schools.com/tags/tryit.asp?filename=tryhtml_bodybgimg">link</a>]. </li>
+    </ul>
+  </li>
+  <li><a href="http://www.w3schools.com/tags/tag_img.asp">&lt;IMG SRC=&quot;...&quot; /&gt;</a>: To insert a picture into the page. Please use jpg or gif format images only. </li>
+  <li><a href="http://www.w3schools.com/tags/tag_a.asp">&lt;A&gt; ... &lt;/A&gt;</a>: 
+  To define an anchor (link). </li>
+  <li><a href="http://www.w3schools.com/tags/tag_hn.asp">&lt;H1&gt; ... &lt;/H1&gt;, &lt;H2&gt; ... &lt;/H2&gt;, &lt;H3&gt; ... &lt;/H3&gt;, &lt;H4&gt; ... &lt;/H4&gt;, &lt;H5&gt; ... &lt;/H5&gt;, &lt;H6&gt; ... &lt;/H6&gt;</a>: To define headings. </li>
+  <li><a href="http://www.w3schools.com/tags/tag_ol.asp">&lt;OL&gt; ... &lt;/OL&gt;</a>: To define an ordered list. </li>
+  <li><a href="http://www.w3schools.com/tags/tag_ul.asp">&lt;UL&gt; ... &lt;/UL&gt;</a>: To define an unorder list. </li>
+  <li><a href="http://www.w3schools.com/tags/tag_li.asp">&lt;LI&gt; ... &lt;/LI&gt;</a>: To define a list item of both <a href="http://www.w3schools.com/tags/tag_ol.asp">&lt;OL&gt; ... &lt;/OL&gt;</a> and <a href="http://www.w3schools.com/tags/tag_ul.asp">&lt;UL&gt; ... &lt;/UL&gt;</a>. The content of the list item should be put inside <a href="http://www.w3schools.com/tags/tag_li.asp">&lt;LI&gt; ... &lt;/LI&gt;</a>. </li>
+</ul>
+<p>&nbsp;</p>
+</body>
+</html>

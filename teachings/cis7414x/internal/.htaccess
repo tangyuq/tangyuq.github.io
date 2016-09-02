@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Internal handouts"
+AuthUserFile /home/tang/htpasswd/cis7414x.htpasswd
+require user 7414x

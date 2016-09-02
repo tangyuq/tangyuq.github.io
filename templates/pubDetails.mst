@@ -1,0 +1,47 @@
+      
+    {{#Fields}}
+       {{authorText}}. <b>{{title}}</b>. {{#booktitle}}<i> {{booktitle}}</i>, {{/booktitle}}{{#journal}}<i> {{journal}}</i>, {{/journal}}
+        {{#volume}}{{volume}} {{#number}}({{number}}){{/number}}:{{#pages}}{{pages}}{{/pages}}, {{/volume}}
+        {{#publisher}}{{publisher}}, {{/publisher}}{{year}}. {{note}} {{wwwnote}} <br>
+       [<a class="bibtexA" href="#">BibTex</a>] {{^b2h_nopdf}}[<a href="./PDFs/{{EntryKey}}.pdf">PDF</a>]{{/b2h_nopdf}} {{#doi}} [<a href="http://dx.doi.org/{{doi}}">DOI</a>]{{/doi}} {{#url}}[<a href="{{url}}">URL</a>]{{/url}}  
+      {{/Fields}}  
+<div class="bibtexDiv"> 
+<h4>BibTex</h4>
+<pre>
+{{=<% %>=}}
+@<%EntryType%>{<%EntryKey%>,
+<%#rawFields%>
+<%#author%>author = {<%author%>}<%/author%><%#title%>,
+title = {<%title%>}<%/title%><%#address%>,
+address = {<%address%>}<%/address%><%#annote%>,
+annote = {<%annote%>}<%/annote%><%#booktitle%>,
+booktitle = {<%booktitle%>}<%/booktitle%><%#chapter%>,
+chapter = {<%chapter%>}<%/chapter%><%#crossref%>,
+crossref = {<%crossref%>}<%/crossref%><%#edition%>,
+edition = {<%edition%>}<%/edition%><%#editor%>,
+editor = {<%editor%>}<%/editor%><%#eprint%>,
+eprint = {<%eprint%>}<%/eprint%><%#howpublished%>,
+howpublished = {<%howpublished%>}<%/howpublished%><%#institution%>,
+institution = {<%institution%>}<%/institution%><%#journal%>,
+journal = {<%journal%>}<%/journal%><%#key%>,
+key = {<%key%>}<%/key%><%#month%>,
+month = {<%month%>}<%/month%><%#note%>,
+note = {<%note%>}<%/note%><%#number%>,
+number = {<%number%>}<%/number%><%#organization%>,
+organization = {<%organization%>}<%/organization%><%#pages%>,
+pages = {<%pages%>}<%/pages%><%#publisher%>,
+publisher = {<%publisher%>}<%/publisher%><%#school%>,
+school = {<%school%>}<%/school%><%#series%>,
+series = {<%series%>}<%/series%><%#type%>,
+type = {<%type%>}<%/type%><%#url%>,
+url = {<%url%>}<%/url%><%#volume%>,
+volume = {<%volume%>}<%/volume%><%#year%>,
+year = {<%year%>}<%/year%><%#abstract%>,
+abstract = {<%abstract%>}<%/abstract%><%#doi%>,
+doi = {<%doi%>}<%/doi%><%#keywords%>,
+keywords = {<%keywords%>}<%/keywords%>
+<%/rawFields%>
+}
+<%={{ }}}=%>
+</pre>
+</div>

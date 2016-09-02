@@ -1,0 +1,32 @@
+{{#Autonomous Agents and Multiagent Systems.length}}
+<h3>Autonomous Agents and Multiagent Systems</h3>
+<ol>
+{{#Autonomous Agents and Multiagent Systems}}  
+    <li> 
+      {{>pubItem}}
+    </li>   
+{{/Autonomous Agents and Multiagent Systems}}
+</ol>
+{{/Autonomous Agents and Multiagent Systems.length}}
+
+
+{{#Matrix Eigen Solving and Polynomial Root-findings.length}}
+<h3>Matrix Eigen Solving and Polynomial Root-findings</h3>
+<ol>
+{{#Matrix Eigen Solving and Polynomial Root-findings}}  
+    <li> 
+      {{>pubItem}}
+    </li>   
+{{/Matrix Eigen Solving and Polynomial Root-findings}}
+</ol>
+{{/Matrix Eigen Solving and Polynomial Root-findings.length}}
+{{#undefined.length}}
+<h3>undefined</h3>
+<ol>
+{{#undefined}}  
+    <li> 
+      {{>pubItem}}
+    </li>   
+{{/undefined}}
+</ol>
+{{/undefined.length}}

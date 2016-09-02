@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<title>HTML tags for Lab 3</title>
+</head>
+
+<body>
+<h3> An almost simplest web page sample </h3>
+<table width="266" border="1" bgcolor="#CCCCCC">
+  <tr>
+    <td width="260">&lt;html&gt; 
+      <p>&lt;head&gt;<br />
+         &lt;title&gt; ... &lt;/title&gt; <br />
+&lt;/head&gt;</p>
+      <p>&lt;body&gt;<br />
+        ...<br />
+        ...<br />
+        ...<br />
+        &lt;/body&gt;<br />
+        &lt;/html&gt;</p>
+    </td>
+  </tr>
+</table>
+<h3>Tags to define html elements which may be useful for  LAB3 </h3>
+<ul>
+  <li><a href="http://www.w3schools.com/tags/tag_html.asp">&lt;HTML&gt; ... &lt;/HTML&gt;</a> : This element tells a browser that this is an HTML document. You can find a simplest HTML template in this description. </li>
+  <li><a href="http://www.w3schools.com/tags/tag_head.asp">&lt;HEAD&gt; ... &lt;/HEAD&gt;</a>: 
+  The head element can contain information about the document.&nbsp;The browser does   not display the &quot;head information&quot; to the user (except the &lt;title&gt; information. The following tags can be in the   head section: &lt;base&gt;, &lt;link&gt;, &lt;meta&gt;, &lt;script&gt;,   &lt;style&gt;,&nbsp; and &lt;title&gt;.</li>
+  <li><a href="http://www.w3schools.com/tags/tag_title.asp">&lt;TITLE&gt; ... &lt;/TITLE&gt;</a>: This element defines the title of the document. It should be included inside <a href="http://www.w3schools.com/tags/tag_head.asp">&lt;HEAD&gt; ... &lt;/HEAD&gt;</a>. </li>
+  <li><a href="http://www.w3schools.com/tags/tag_body.asp">&lt;BODY&gt; ... &lt;/BODY&gt;</a>: The body element defines the documents' body. It contains all the contents of   the document (like text, images, colors, graphics, etc.).</li>
+  <li><a href="http://www.w3schools.com/tags/tag_p.asp">&lt;P&gt; ... &lt;/P&gt;:</a> To define a paragraph. The content of the paragraph should be enclosed inside <a href="http://www.w3schools.com/tags/tag_p.asp">&lt;P&gt; ... &lt;/P&gt;</a>. </li>
+  <li><a href="http://www.w3schools.com/tags/tag_ol.asp">&lt;OL&gt; ... &lt;/OL&gt;</a>: To define an ordered list. </li>
+  <li><a href="http://www.w3schools.com/tags/tag_ul.asp">&lt;UL&gt; ... &lt;/UL&gt;</a>: To define an unorder list. </li>
+  <li><a href="http://www.w3schools.com/tags/tag_li.asp">&lt;LI&gt; ... &lt;/LI&gt;</a>: To define a list item of both <a href="http://www.w3schools.com/tags/tag_ol.asp">&lt;OL&gt; ... &lt;/OL&gt;</a> and <a href="http://www.w3schools.com/tags/tag_ul.asp">&lt;UL&gt; ... &lt;/UL&gt;</a>. The content of the list item should be put inside <a href="http://www.w3schools.com/tags/tag_li.asp">&lt;LI&gt; ... &lt;/LI&gt;</a>. </li>
+  <li><a href="http://www.w3schools.com/tags/tag_a.asp">&lt;A&gt; ... &lt;/A&gt;</a>: 
+    To define an anchor. An anchor can be used in two ways:
+    <ol>
+      <li>To create a link to another document by using the href attribute. (The Hyper Text Market Language's &quot;hyper&quot; is mostly about this). </li>
+      <li>To create a bookmark inside a document, by using the name or id attribute </li>
+    </ol>
+  </li>
+  <li><a href="http://www.w3schools.com/tags/tag_br.asp">&lt;BR /&gt; </a>: To insert a single line break. </li>
+  <li><a href="http://www.w3schools.com/tags/tag_hr.asp">&lt;HR /&gt;</a>: To insert a horizontal rule. </li>
+</ul>
+<h3>Some other userful tags </h3>
+<ul>
+  <li><a href="http://www.w3schools.com/tags/tag_hn.asp">&lt;H1&gt; ... &lt;/H1&gt;, &lt;H2&gt; ... &lt;/H2&gt;, &lt;H3&gt; ... &lt;/H3&gt;, &lt;H4&gt; ... &lt;/H4&gt;, &lt;H5&gt; ... &lt;/H5&gt;, &lt;H6&gt; ... &lt;/H6&gt;</a>: To define headings. </li>
+  <li><a href="http://www.w3schools.com/tags/tag_div.asp">&lt;DIV&gt; ... &lt;/DIV&gt;</a>: To define a division. </li>
+  <li><a href="http://www.w3schools.com/tags/tag_span.asp">&lt;SPAN&gt; ...&lt;/SPAN&gt;</a>: To group inline-elements. </li>
+</ul>
+<h3>Font styles  </h3>
+<ul>
+  <li><a href="http://www.w3schools.com/tags/tag_font_style.asp">&lt;B&gt;...&lt;/B&gt;</a>: Text enclosed will be renderred as bold text. </li>
+  <li><a href="http://www.w3schools.com/tags/tag_font_style.asp">&lt;I&gt;...&lt;/I&gt;</a>: Text enclosed will be renderred as italics text. </li>
+  <li><a href="http://www.w3schools.com/tags/tag_font_style.asp">&lt;U&gt;...&lt;/U&gt;</a>: Text enclosed is to be renderred as underlined text. </li>
+</ul>
+</body>
+</html>

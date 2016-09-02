@@ -1,0 +1,38 @@
+{
+  "name": "bibtex-parser-js",
+  "version": "0.0.2",
+  "description": "A JavaScript library that parses BibTeX to JSON",
+  "main": "bibtexParse.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "node test/runTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ORCID/bibtexParseJs"
+  },
+  "keywords": [
+    "bibtex",
+    "json",
+    "javascript",
+    "parser"
+  ],
+  "author": {
+    "name": "rcpeters"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/ORCID/bibtexParseJs/issues"
+  },
+  "readme": "bibtexParseJs\n=============\nA JavaScript library that parses BibTeX parser. Forked from \n[bibtex-parser](https://github.com/mikolalysenko/bibtex-parser).\n\n\n## Using in Browser\nInclude bibtexParse.js and call \n\n```\nbibtexParse.toJSON('@article{sample1,title={sample title}}');\n```\n\n## Using in [Node.js](http://nodejs.org/)\nInstall     ```npm install bibtex-parser-js```\n\n```\nvar bibtexParse = require('bibtex-parser-js');\n\nvar sample = bibtexParse.toJSON('@article{sample1,title={sample title}}');\n\nconsole.log(sample);\n``` \n\n**Returns** A parsed bibtex file as a JSON Array Object\n\n```\n[ { citationKey: 'SAMPLE1',\n    entryType: 'ARTICLE',\n    entryTags: { TITLE: 'sample title' } } ]\n```\n\n## Contributing\n   Contributions are welcome. Please make sure the unit test(test/runTest.js) reflects the\n   changes and completes successfully. \n\n\n## Credits\n(c) 2010 Henrik Muehe.  MIT License \n[visit](https://code.google.com/p/bibtex-js/)\n\n\nCommonJS port maintained by Mikola Lysenko \n[visit](https://github.com/mikolalysenko/bibtex-parser)\n",
+  "_id": "bibtex-parser-js@0.0.2",
+  "dist": {
+    "shasum": "f9ee5f69ff6772d56998a523828632257255a79d"
+  },
+  "_from": "bibtex-parser-js@",
+  "_resolved": "https://registry.npmjs.org/bibtex-parser-js/-/bibtex-parser-js-0.0.2.tgz"
+}

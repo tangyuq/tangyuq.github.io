@@ -1,0 +1,5 @@
+      {{#Fields}}
+       {{authorText}}. <b>{{title}}</b>. {{#booktitle}}<i> {{booktitle}}</i>, {{/booktitle}}{{#journal}}<i> {{journal}}</i>, {{/journal}}
+        {{#volume}}{{volume}} {{#number}}({{number}}){{/number}}:{{#pages}}{{pages}}{{/pages}}, {{/volume}}
+        {{#publisher}}{{publisher}}, {{/publisher}}{{year}}. {{note}} {{wwwnote}} 
+      {{/Fields}}

@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <title>Yuqing Tang</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+        <meta content="MSHTML 6.00.2800.1400" name="GENERATOR">
+        <link rel="stylesheet" href="./homepage.css" type="text/css">
+        <style type="text/css"></style>
+        <style type="text/css" title="currentStyle">
+            @import "./css/publication.css";
+        </style>
+
+        <script src="./externals/js/jquery-2.1.0.min.js"></script>
+        <script src="./externals/bibtex-parser-js/bibtexParse.js"></script>
+        <script src="./externals/mustache/mustache.js"></script>
+        <script src="./externals/js/Parser.js"></script>
+        <script src="./js/publication.js"></script>
+
+
+        <script>
+            $(document).ready(function() {
+                var myPub = new MyPublication({pubDiv: "#publications"});
+                myPub.init();
+                $("#linkByDate").click(function() {
+                    myPub.renderByYear();
+                    return false;
+                });
+                $("#linkByPubtype").click(function() {
+                    myPub.renderByPubtype();
+                    return false;
+                });
+                $("#linkByResCat").click(function() {
+                    myPub.renderByResCat();
+                    return false;
+                });
+            });
+        </script>
+
+    </head>
+    <body style="background-color: rgb(255, 255, 255); background-image: url();">
+
+        <!--#include virtual="head.htm" -->
+
+        <div id="content">
+            <h2>Publications</h2>
+            <p><big>&#8226;
+                    <a href="#" id="linkByDate">Sorted by Date</a> &#8226;
+                    <a href="#" id="linkByPubtype">Classified by Publication Type</a> &#8226;
+                    <a href="#" id="linkByResCat">Classified by Research Category</a> &#8226;
+                    <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tang:Yuqing.html" target="_blank">DBLP</a>
+                    &#8226;
+                    <a href="http://portal.acm.org/author_page.cfm?id=81100641069" target="_blank">ACM profile</a> 
+                    &#8226;
+                </big></p>
+            <hr width="100%" size="2">
+            <div id="publications"> </div>
+        </div>
+
+        <!--#include virtual="leftnav.htm" -->
+        <!--#include virtual="sitefoot.htm" -->
+
+    </body>
+</html>

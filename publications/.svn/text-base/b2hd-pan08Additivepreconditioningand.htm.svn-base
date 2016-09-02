@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Yuqing Tang</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.2800.1400" name="GENERATOR">
+<link rel="stylesheet" href="../homepage.css" type="text/css">
+<style type="text/css"></style>
+</head>
+<body style="background-color: rgb(255, 255, 255); background-image: url();">
+   
+<!--#include virtual="head.htm" -->
+   
+<div id="content">
+<h2>Publications</h2>
+<p><big>&#8226;
+  <a href="sort_date.htm">Sorted by Date</a> &#8226;
+  <a href="class_type.htm">Classified by Publication Type</a> &#8226;
+  <a href="class_rescat.htm">Classified by Research Category</a> &#8226;
+  <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tang:Yuqing.html" target="_blank">DBLP</a>
+  &#8226;
+<a href="http://portal.acm.org/author_page.cfm?id=81100641069" target="_blank">ACM profile</a> 
+  &#8226;
+  </big></p>
+<h3><b> Additive preconditioning and aggregation in matrix computations</b></h3>
+<p class="citation"><a href="http://comet.lehman.cuny.edu/vpan"> Victor Y. Pan</a>,  Dmitriy Ivolgin,  Brian Murphy,  Rhys Eric	Rosholt,  Islam Taj-Eddin, <a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>, and  Xiaodong Yan. <b> Additive preconditioning and aggregation in matrix computations</b>. <i> Computers and Mathematics with Applications</i>,  55(8):1870&ndash;1886,  Pergamon Press, Inc.,  Tarrytown, NY, USA, 2008.</p>
+<h3>Download</h3>
+<p><a href="http://dx.doi.org/10.1016/j.camwa.2004.03.022">[PDF]</a>&nbsp;<a href="http://dx.doi.org/10.1016/j.camwa.2004.03.022">[gzipped postscript]</a>&nbsp;<a href="http://dx.doi.org/10.1016/j.camwa.2004.03.022">[postscript]</a>&nbsp;<a href="http://dx.doi.org/10.1016/j.camwa.2004.03.022">[HTML]</a>&nbsp;</p>
+<h3>Abstract</h3>
+<p class="abstract">
+      (unavailable)
+     </p>
+<a href="pan08Additivepreconditioningand.bib"><h3>BibTeX</h3></a><pre>@ARTICLE{pan08Additivepreconditioningand,
+  author = {Victor Y. Pan and Dmitriy Ivolgin and Brian Murphy and Rhys Eric
+	Rosholt and Islam Taj-Eddin and Yuqing Tang and Xiaodong Yan},
+  title = {Additive preconditioning and aggregation in matrix computations},
+  journal = {Computers and Mathematics with Applications},
+  year = {2008},
+  volume = {55},
+  pages = {1870--1886},
+  number = {8},
+  address = {Tarrytown, NY, USA},
+  b2h_pubtype = {Journal},
+  b2h_rescat = {Matrix Eigen Solving and Polynomial Root-findings},
+  doi = {10.1016/j.camwa.2004.03.022},
+  issn = {0898-1221},
+  owner = {tang},
+  publisher = {Pergamon Press, Inc.},
+  timestamp = {2008.08.18}
+}
+</pre>
+</div>
+   
+<!--#include virtual="leftnav.htm" -->
+<!--#include virtual="sitefoot.htm" -->
+   
+</body>
+</html>

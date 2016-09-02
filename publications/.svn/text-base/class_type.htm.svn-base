@@ -1,0 +1,381 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Yuqing Tang</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.2800.1400" name="GENERATOR">
+<link rel="stylesheet" href="../homepage.css" type="text/css">
+<style type="text/css"></style>
+</head>
+<body style="background-color: rgb(255, 255, 255); background-image: url();">
+   
+<!--#include virtual="head.htm" -->
+   
+<div id="content">
+<h2>Publications</h2>
+<p><big>&#8226;
+  <a href="sort_date.htm">Sorted by Date</a> &#8226;
+  <a href="class_type.htm">Classified by Publication Type</a> &#8226;
+  <a href="class_rescat.htm">Classified by Research Category</a> &#8226;
+  <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tang:Yuqing.html" target="_blank">DBLP</a>
+  &#8226;
+<a href="http://portal.acm.org/author_page.cfm?id=81100641069" target="_blank">ACM profile</a> 
+  &#8226;
+  </big></p>
+<h3>Classified by Publication Type</h3>
+<p>&#8226;
+  <a href="#Journal">Journal</a>
+   &#8226;
+  <a href="#Refereed%20Major%20Conference">Refereed Major Conference</a>
+   &#8226;
+  <a href="#Refereed%20Conference">Refereed Conference</a>
+   &#8226;
+  <a href="#Refereed%20Workshop%20and%20Symposium">Refereed Workshop and Symposium</a>
+   &#8226;
+  <a href="#Book%20Chapter">Book Chapter</a>
+   &#8226;
+  <a href="#Tech%20Report">Tech Report</a>
+   &#8226;
+  </p>
+<hr width="100%" size="2">
+<h3>
+<a name="Journal"></a>Journal</h3>
+<ol>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>,  Kai Cai, <a href="http://www.dcs.kcl.ac.uk/staff/mcburney"> Peter McBurney</a>, <a href="http://www.sci.brooklyn.cuny.edu/~sklar"> Elizabeth Sklar</a>, and <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>. <b> Using argumentation to reason about trust and belief</b>. <i> Journal of Logic and Computation</i>, 2011.<br><a href="b2hd-tang11usingargumentationto.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang11usingargumentationto.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/tang11usingargumentationto.pdf">[pdf]
+       (476.7kB
+  )
+      </a>&nbsp;<a href="http://dx.doi.org/10.1093/logcom/exr038">[ps.gz]</a>&nbsp;<a href="http://dx.doi.org/10.1093/logcom/exr038">[ps]</a>&nbsp;<a href="http://dx.doi.org/10.1093/logcom/exr038">[HTML]</a>&nbsp;</li>
+<li><a href="http://comet.lehman.cuny.edu/vpan"> Victor Y. Pan</a>,  Dmitriy Ivolgin,  Brian Murphy,  Rhys Eric	Rosholt,  Islam Taj-Eddin, <a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>, and  Xiaodong Yan. <b> Additive preconditioning and aggregation in matrix computations</b>. <i> Computers and Mathematics with Applications</i>,  55(8):1870&ndash;1886,  Pergamon Press, Inc.,  Tarrytown, NY, USA, 2008.<br><a href="b2hd-pan08Additivepreconditioningand.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="pan08Additivepreconditioningand.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://dx.doi.org/10.1016/j.camwa.2004.03.022">[pdf]</a>&nbsp;<a href="http://dx.doi.org/10.1016/j.camwa.2004.03.022">[ps.gz]</a>&nbsp;<a href="http://dx.doi.org/10.1016/j.camwa.2004.03.022">[ps]</a>&nbsp;<a href="http://dx.doi.org/10.1016/j.camwa.2004.03.022">[HTML]</a>&nbsp;</li>
+<li><a href="http://comet.lehman.cuny.edu/vpan"> Victor Y. Pan</a>,  Brian Murphy,  Rhys Eric Rosholt, <a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>,  Xinmao Wang, and  Ailong Zheng. <b> Eigen-solving via reduction to DPR1 matrices</b>. <i> Computers and Mathematics with Applications</i>,  56(1):166&ndash;171,  Pergamon Press, Inc.,  Tarrytown, NY, USA, 2008.<br><a href="b2hd-pan08Eigen-solvingviareduction.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="pan08Eigen-solvingviareduction.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://dx.doi.org/10.1016/j.camwa.2007.09.012">[pdf]</a>&nbsp;<a href="http://dx.doi.org/10.1016/j.camwa.2007.09.012">[ps.gz]</a>&nbsp;<a href="http://dx.doi.org/10.1016/j.camwa.2007.09.012">[ps]</a>&nbsp;<a href="http://dx.doi.org/10.1016/j.camwa.2007.09.012">[HTML]</a>&nbsp;</li>
+<li><a href="http://comet.lehman.cuny.edu/vpan"> Victor Y. Pan</a>,  Mikhail Kunin,  Brian Murphy,  Rhys Eric Rosholt, <a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>,  Xiaodong Yan, and  Wenbo Cao. <b> Linking the TPR1, DPR1 and Arrow-head Matrix Structures</b>. <i> Computers and Mathematics with Applications</i>,  52(10-11):1603&ndash;1608, November-December 2006.<br><a href="b2hd-pan06LinkingTPR1DPR1.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="pan06LinkingTPR1DPR1.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://dx.doi.org/10.1016/j.camwa.2005.04.020">[pdf]</a>&nbsp;<a href="http://dx.doi.org/10.1016/j.camwa.2005.04.020">[ps.gz]</a>&nbsp;<a href="http://dx.doi.org/10.1016/j.camwa.2005.04.020">[ps]</a>&nbsp;<a href="http://dx.doi.org/10.1016/j.camwa.2005.04.020">[HTML]</a>&nbsp;</li>
+</ol>
+<h3>
+<a name="Refereed%20Major%20Conference"></a>Refereed Major Conference</h3>
+<ol>
+<li> Murat Sensoy,  Achille Fokoue,  Jeff Pan,  Timothy Norman, <a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>,  Nir Oren, and <a href="http://www.cs.cmu.edu/~sycara"> Katia Sycara</a>. <b> Reasoning about Uncertain Information and Conflict Resolution through	Trust Revision</b>. In <i> Proceedings of the Twelfth International Joint Conference	on Autonomous Agents and Multiagent Systems</i>, 2013.  (to appear)<br />   (22% acceptance rate)<br><a href="b2hd-sensoy13reasoningaboutuncertain.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="sensoy13reasoningaboutuncertain.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>,  Chung-Wei Hang, <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>, and  Munindar P.	Singh. <b> Towards Argumentation with Symbolic Dempster-Shafer Evidence</b>. In <i> Computational Models of Argument - Proceedings of COMMA 2012</i>, pp. 462&ndash;469, 2012.<br><a href="b2hd-tang12towardsargumentationwith.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang12towardsargumentationwith.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li><a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>, <a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>, <a href="http://www.sci.brooklyn.cuny.edu/~sklar"> Elizabeth Sklar</a>,  Kai Cai, and <a href="http://www.dcs.kcl.ac.uk/staff/mcburney"> Peter McBurney</a>. <b> Argumentation-based reasoning in agents with varying degrees of trust</b>. In <i> Proceedings of the Tenth International Joint Conference	on Autonomous Agents and Multiagent Systems</i>, 2011.<br />  (22% acceptance rate)<br><a href="b2hd-parsons11argumentation-basedreasoningin.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="parsons11argumentation-basedreasoningin.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/parsons11argumentation-basedreasoningin.pdf">[pdf]
+       (869.2kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>, <a href="http://www.meneguzzi.eu/felipe"> Felipe Meneguzzi</a>, <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>, and <a href="http://www.cs.cmu.edu/~sycara"> Katia Sycara</a>. <b> Probabilistic Hierarchical Planning over Markov Decision Processes</b>. In <i> Proceedings of the Tenth International Joint Conference	on Autonomous Agents and Multiagent Systems</i>, 2011.  (extended abstract)<br />   (22% acceptance rate, additional 23% for extended abstracts)<br><a href="b2hd-tang11probabilistichierarchicalplanning.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang11probabilistichierarchicalplanning.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/tang11probabilistichierarchicalplanning.pdf">[pdf]
+       (511.4kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>, <a href="http://www.csd.abdn.ac.uk/~tnorman"> Timothy J. Norman</a>, and <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>. <b> A model for integrating dialogue and the execution of joint plans</b>. In <i> Proceedings of the Eigth International Joint Conference	on Autonomous Agents and Multiagent Systems</i>,  Budapest, Hungary, May 10-15 2009.<br />  (22% acceptance rate)<br><a href="b2hd-tang09modelintegratingdialogue.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang09modelintegratingdialogue.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/tang09modelintegratingdialogue.pdf">[pdf]
+       (326.7kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a> and <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>. <b> A dialogue mechanism for public argumentation using conversation	policies</b>. In <i> Proceedings of the Seventh International Joint Conference	on Autonomous Agents and Multiagent Systems</i>, pp. 445&ndash;452,  Estoril, Portugal, May 12-16 2008.<br />  (22% acceptance rate)<br><a href="b2hd-tang08dialoguemechanismpublic.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang08dialoguemechanismpublic.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/tang08dialoguemechanismpublic.pdf">[pdf]
+       (454.7kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>, <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>, and <a href="http://www.sci.brooklyn.cuny.edu/~sklar"> Elizabeth Sklar</a>. <b> An agent-based model that relates investment in education to economic	prosperity</b>. In <i> Proceedings of the 6th International Conference on Autonomous Agents	and Multi-Agent Systems</i>,  Honolulu, 2007.  (poster)<br />  (22% acceptance rate, additional 25% for posters)<br><a href="b2hd-tang07agent-basedmodelthat.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang07agent-basedmodelthat.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/tang07agent-basedmodelthat.pdf">[pdf]
+       (85.4kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>, <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>, and <a href="http://www.sci.brooklyn.cuny.edu/~sklar"> Elizabeth Sklar</a>. <b> Agent-based modeling of human education data</b>. In <i> Proceedings of the 5th International Conference on Autonomous Agents	and Multi-Agent Systems</i>,  Hakodate, Japan, 2006.  (short paper)<br />  (23% acceptance rate, additional 25% for short papers)<br><a href="b2hd-tang06agent-basedmodelingof.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang06agent-basedmodelingof.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/tang06agent-basedmodelingof.pdf">[pdf]
+       (190.7kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a> and <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>. <b> Argumentation-based dialogues for deliberation</b>. In <i> Proceedings of the Fourth International Joint Conference	on Autonomous Agents and Multiagent Systems</i>, pp. 552&ndash;559,  ACM Press,  New York, NY, USA, 2005.<br />  (25% acceptance rate)<br><a href="b2hd-tang05argumentation-baseddialoguesdeliberation.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang05argumentation-baseddialoguesdeliberation.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/tang05argumentation-baseddialoguesdeliberation.pdf">[pdf]
+       (405.8kB
+  )
+      </a>&nbsp;</li>
+</ol>
+<h3>
+<a name="Refereed%20Conference"></a>Refereed Conference</h3>
+<ol>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>, <a href="http://www.meneguzzi.eu/felipe"> Felipe Meneguzzi</a>, <a href="http://www.cs.cmu.edu/~sycara"> Katia Sycara</a>,  Murat Sensoy,  Jeff Z. Pan,  Achille Fokoue, and  Mudhakar Srivatsa. <b> Towards Presenting Relevant Facts and Answers on Inconsistent and	Uncertain Knowledge</b>. In <i> Proceedings of 2012 ACITA Conference</i>,  Southampton, UK, 2012.<br><a href="b2hd-tang12towardspresentingrelevant.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang12towardspresentingrelevant.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li><a href="http://www.meneguzzi.eu/felipe"> Felipe Meneguzzi</a>, <a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>, <a href="http://www.cs.cmu.edu/~sycara"> Katia Sycara</a>, and <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>. <b> On representing planning domains under uncertainty</b>. In <i> Proceedings of the Third Annual Conference of the ITA</i>,  Imperial College, London, 2010.<br><a href="b2hd-meneguzzi10representingplanningdomains.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="meneguzzi10representingplanningdomains.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/meneguzzi10representingplanningdomains.pdf">[pdf]
+       (441.6kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>,  David C. Emele, <a href="http://www.csd.abdn.ac.uk/~tnorman"> Timothy J. Norman</a>, and <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>. <b> Learning to communicate more efficiently in human-agent teams</b>. In <i> Proceedings of the Third Annual Conference of the ITA</i>,  Imperial College, London, 2010.<br><a href="b2hd-tang10learningtocommunicate.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang10learningtocommunicate.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/tang10learningtocommunicate.pdf">[pdf]
+       (331.7kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>, <a href="http://www.csd.abdn.ac.uk/~tnorman"> Timothy J. Norman</a>, and <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>. <b> Towards the implementation of a system for planning team activities</b>. In <i> Proceedings of the Second Annual Conference of the ITA</i>,  University of Maryland University College, Maryland, 2009.<br><a href="b2hd-tang09towardsimplementationof.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang09towardsimplementationof.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/tang09towardsimplementationof.pdf">[pdf]
+       (132.2kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>,  Steven Poltrock,  Helen Bowyer, and <a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>. <b> Analysis of a Recorded Team Coordination Dialogue</b>. In <i> Proceedings of the Second Annual Conference of the ITA</i>,  Imperial College, London, 2008.<br><a href="b2hd-parsons08analysisofrecorded.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="parsons08analysisofrecorded.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/parsons08analysisofrecorded.pdf">[pdf]
+       (725.8kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>, <a href="http://www.csd.abdn.ac.uk/~tnorman"> Timothy J. Norman</a>, and <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>. <b> Agent-based Dialogues to Support Plan Execution by Human Teams</b>. In <i> Proceedings of the Second Annual Conference of the ITA</i>,  Imperial College, London, 2008.<br><a href="b2hd-tang08agent-baseddialoguesto.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang08agent-baseddialoguesto.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/tang08agent-baseddialoguesto.pdf">[pdf]
+       (610.8kB
+  )
+      </a>&nbsp;</li>
+</ol>
+<h3>
+<a name="Refereed%20Workshop%20and%20Symposium"></a>Refereed Workshop and Symposium</h3>
+<ol>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>, <a href="http://www.sci.brooklyn.cuny.edu/~sklar"> Elizabeth Sklar</a>, and <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>. <b> An argumentation engine: ArgTrust</b>. In <i> Ninth International Workshop on Argumentation in Multiagent Systems</i>, 2012.<br><a href="b2hd-tang12argumentationengineargtrust.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang12argumentationengineargtrust.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li><a href="http://www.meneguzzi.eu/felipe"> Felipe Meneguzzi</a>, <a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>, <a href="http://www.cs.cmu.edu/~sycara"> Katia Sycara</a>, and <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>. <b> An approach to generate MDPs using HTN representations</b>. In <i> IJCAI Workshop on Decision Making in Partially Observable	Uncertain Worlds: Exploring Insights from Multiple Communities</i>,  Barcelona, Spain, July 2011.<br><a href="b2hd-meneguzzi11approachtogenerate.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="meneguzzi11approachtogenerate.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/meneguzzi11approachtogenerate.pdf">[pdf]
+       (370.5kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>, <a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>,  Kai Cai, <a href="http://www.sci.brooklyn.cuny.edu/~sklar"> Elizabeth Sklar</a>, and <a href="http://www.dcs.kcl.ac.uk/staff/mcburney"> Peter McBurney</a>. <b> Some thoughts on using argumentation to handle trust</b>. In <i> Proceedings of the 12th International Workshop on Computational Logic	in Multi-Agent Systems</i>,  Barcelona, 2011.<br><a href="b2hd-parsons11somethoughtsusing.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="parsons11somethoughtsusing.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/parsons11somethoughtsusing.pdf">[pdf]
+       (229.5kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>, <a href="http://www.meneguzzi.eu/felipe"> Felipe Meneguzzi</a>, <a href="http://www.cs.cmu.edu/~sycara"> Katia Sycara</a>, and <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>. <b> Planning over MDPs through Probabilistic HTNs</b>. In <i> AAAI 2011 Workshop on Generalized Planning</i>,  San Francisco, August 2011.<br><a href="b2hd-tang11planningovermdps.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang11planningovermdps.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/tang11planningovermdps.pdf">[pdf]
+       (377.5kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>. <b> Integrating Multiagent Dialogues, Planning and Plan Execution</b>. In <i> 20th International Conference on Automated Planning and Scheduling	Doctoral Consortium</i>,  Toronto, Canada, 2010.<br><a href="b2hd-tang10integratingmultiagentdialogues.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang10integratingmultiagentdialogues.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/tang10integratingmultiagentdialogues.pdf">[pdf]
+       (87.3kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>,  Kai Cai, <a href="http://www.sci.brooklyn.cuny.edu/~sklar"> Elizabeth Sklar</a>, <a href="http://www.dcs.kcl.ac.uk/staff/mcburney"> Peter McBurney</a>, and <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>. <b> A system of argumentation for reasoning about trust</b>. In <i> Proceedings of the 8th European Workshop on Multi-Agent Systems</i>,  Paris, France, December 2010.<br><a href="b2hd-tang10systemofargumentation.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang10systemofargumentation.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/tang10systemofargumentation.pdf">[pdf]
+       (246.6kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>, <a href="http://www.csd.abdn.ac.uk/~tnorman"> Timothy J. Norman</a>, and <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>. <b> Computing Argumentation in Polynomial Number of BDD Operations: A	Preliminary Report</b>. In <i> Seventh International Workshop on Argumentation in Multiagent Systems</i>, 2010.<br><a href="b2hd-tang10computingargumentationin.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang10computingargumentationin.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/tang10computingargumentationin.pdf">[pdf]
+       (165.0kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://comet.lehman.cuny.edu/vpan"> Victor Y. Pan</a>,  Dmitriy Ivolgin,  Brian Murphy,  Rhys Eric	Rosholt,  Islam Taj-Eddin, <a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>, and  Xiaodong Yan. <b> Additive preconditioning in matrix computations</b>. In <i> Proceedings of the Third International Computer Science Symposium</i>, 2008.<br><a href="b2hd-pan08additivepreconditioningin.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="pan08additivepreconditioningin.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li><a href="http://comet.lehman.cuny.edu/vpan"> Victor Y. Pan</a>,  Dmitriy Ivolgin,  Brian Murphy,  Rhys Eric	Rosholt, <a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>,  Xinmao Wang, and  Xiaodong Yan. <b> Real root-finding</b>. In <i> Proceedings of the International Workshop on Symbolic-Numeric Computation</i>, pp. 161&ndash;169,  ACM, July 2007.<br><a href="b2hd-pan07Realroot-finding.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="pan07Realroot-finding.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a> and <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>. <b> Using argumentation-based dialogues for distributed plan management</b>. In <i> Proceedings of the AAAI Spring Symposium on Distributed Plan and	Schedule Management</i>,  Stanford, 2006.<br />  (position paper)<br><a href="b2hd-tang06usingargumentation-baseddialogues.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang06usingargumentation-baseddialogues.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/tang06usingargumentation-baseddialogues.pdf">[pdf]
+       (51.6kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>, <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>, and <a href="http://www.sci.brooklyn.cuny.edu/~sklar"> Elizabeth Sklar</a>. <b> Modeling human education data: From equation-based modeling to agent-based	modeling</b>. In <i> Proceedings of the Workshop on Multiagent-based Simulation</i>,  Hakodate, Japan, 2006.<br><a href="b2hd-tang06modelinghumaneducation.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang06modelinghumaneducation.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/tang06modelinghumaneducation.pdf">[pdf]
+       (155.0kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a> and <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>. <b> Argumentation-Based Multi-agent Dialogues for Deliberation</b>. In <i> Second International Workshop on Argumentation in Multiagent Systems</i>, pp. 229&ndash;244, 2005.<br />  (invited paper)<br><a href="b2hd-tang05argumentation-basedmulti-agentdialogues.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang05argumentation-basedmulti-agentdialogues.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/tang05argumentation-basedmulti-agentdialogues.pdf">[pdf]
+       (173.1kB
+  )
+      </a>&nbsp;</li>
+</ol>
+<h3>
+<a name="Book%20Chapter"></a>Book Chapter</h3>
+<ol><li><a href="http://comet.lehman.cuny.edu/vpan"> Victor Y. Pan</a>,  Brian Murphy,  Rhys Eric Rosholt,  Guoliang	Qian, and <a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>. <b> Root-finding with Eigen-solving</b>. In  Dongming Wang and  Lihong Zhi, editors, <i> Symbolic-Numeric Computation</i>, pp. 185&ndash;210, 2007.<br><a href="b2hd-pan07Root-findingwithEigen-solving.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="pan07Root-findingwithEigen-solving.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li></ol>
+<h3>
+<a name="Tech%20Report"></a>Tech Report</h3>
+<ol><li><a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a> and <a href="http://www.sci.brooklyn.cuny.edu/~parsons"> Simon Parsons</a>. <b> An MDP model for planning team actions with communication</b>. Technical Report International Technology Alliance in Network and Information Science, 2009.<br><a href="b2hd-tang09mdpmodelplanning.htm">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tang09mdpmodelplanning.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="PDFs/tang09mdpmodelplanning.pdf">[pdf]
+       (120.8kB
+  )
+      </a>&nbsp;</li></ol>
+</div>
+   
+<!--#include virtual="leftnav.htm" -->
+<!--#include virtual="sitefoot.htm" -->
+   
+</body>
+</html>

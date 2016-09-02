@@ -1,0 +1,519 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head>
+<!-- saved from url=(0032)http://www.cs.gc.cuny.edu/~tang/ --><title>CISC 7414x Expert Systems</title>
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+  
+  <meta content="MSHTML 6.00.2800.1400" name="GENERATOR"><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body style="background-color: rgb(255, 255, 255); background-image: url();">
+<h1 align="left"><font face="Arial, Helvetica, sans-serif">CISC
+7414x Expert Systems</font></h1>
+
+<strong><em>Last Update: October 16th 2010 1:31pm</em></strong>
+<hr><span style="font-weight: bold;">Instructor</span>
+
+<p align="left">Yuqing Tang [<a href="http://web.cs.gc.cuny.edu/%7Etang">website</a>]
+<br>
+Email: <a href="mailto:ytang@cs.gc.cuny.edu">ytang@cs.gc.cuny.edu</a><br>
+Course website: [<a href="http://web.cs.gc.cuny.edu/%7Etang/teachings/cis7414x">http://web.cs.gc.cuny.edu/~tang/teachings/cis7414x</a>]<br>
+Office hours: Please <a href="mailto:ytang@cs.gc.cuny.edu">email </a>me
+to schedule an appointment. <br>
+</p>
+
+<span style="font-weight: bold;">Objectives</span><br>
+
+To give computer science Master&#8217;s Degree Candidates a thorough
+foundation in the discipline of Artificial Intelligence, focusing on
+Expert Systems, and related methodologies; to bring current trends and
+advances in the discipline to the forefront so that they may be
+considered for possible use as solutions to appropriate problems. <br>
+
+<br>
+
+In
+Fall 2010, the course will focus on probabilistic approaches, in
+particular, Bayesian networks. <br>
+
+<br>
+
+<span style="font-weight: bold;">Time and Place</span>
+<table style="width: 357px; height: 58px;" border="1">
+
+  <tbody>
+    <tr>
+      <td width="58"><strong>Day</strong></td>
+      <td><strong>Time</strong></td>
+      <td width="58"><strong>Location</strong></td>
+    </tr>
+    <tr>
+      <td> W </td>
+      <td>6:05PM- 8:10PM</td>
+      <td>236 NE </td>
+    </tr>
+  </tbody>
+</table>
+
+<span style="font-weight: bold;"></span><br>
+
+<span style="font-weight: bold;">Textbook</span>
+
+<ol>
+
+  <li> Bayesian Artificial Intelligence
+(2004), Kevin B. Korb and Ann E. Nicholson, Chapman and Hall, CRC Press
+[<a href="http://www.csse.monash.edu.au/bai/book/errata.html">errata</a>]  </li>
+</ol>
+
+<span style="font-weight: bold;">Supplemental
+Materials</span>
+
+<ol>
+
+  <li><a href="internal">Internal handouts</a> (please email me for the access password)  </li>
+  <li>Expert Systems: Principles and Programming (4th ed.) Joseph C.
+Giarratano, Gary D. Riley, Thomson Course Technology</li>
+  <li>Artificial Intelligence: A Modern Approach (3rd ed.), Stuart Russell, Peter
+Norvig, Prentice Hall</li>
+  <li>Bayesian Networks and Decision Graphs (2 ed.), Finn B. Jensen, Thomas Graven-Nielsen, Springer<br>
+  </li>
+
+</ol>
+
+<p><strong>Class Project</strong></p>
+<ul>
+  <li><a href="projects/projects.pdf">Requirements</a></li>
+  <li>Important dates
+    <ul>
+      <li>October 6th: Class discussion</li>
+      <li>October 13rd: Project proposal due</li>
+      <li>November 10th: Milestone report due</li>
+      <li>December 1st: Final report and presentation due</li>
+    </ul>
+  </li>
+</ul>
+<p><strong>Softwares</strong></p>
+<ul>
+<li> Korb and Nicholson's Appendix B: Bayesian network and causal discovery software packages [<a href="http://www.csse.monash.edu.au/bai/book/appendix_b.pdf">pdf</a>] </li>
+<li> Kevin Murphy's list of software packages [<a href="http://www.cs.ubc.ca/%7Emurphyk/Software/bnsoft.html">link</a>]</li>
+<li>Java
+  <ul>
+    <li>JavaBayes [<a href="http://www.pmr.poli.usp.br/ltd/Software/javabayes/Home/">link</a>] </li>
+    <li>UnBBayes [<a href="http://unbbayes.sourceforge.net/">link</a>] </li>
+    </ul>
+</li>
+<li>Python
+  <ul>
+    <li>Python Bayesian Network Toolbox [<a href="http://pbnt.berlios.de/">link</a>]</li>
+    <li>bayesnet [<a href="http://pypi.python.org/pypi/bayesnet/0.1">link</a>] </li>
+  </ul>
+</li>
+<li>Matlab/<a href="http://www.gnu.org/software/octave/">Octave</a>  <ul>
+    <li>Probabilistic modeling toolkit for Matlab/Octave [<a href="http://code.google.com/p/pmtk3/">link</a>] [<a href="http://pmtkdata.googlecode.com/svn/trunk/docs/dataTable.html">pmtk data sets</a>] </li>
+    <li>Bayes Net Toolbox for Matlab [<a href="http://code.google.com/p/bnt/">link</a>] </li>
+    </ul>
+</li>
+<li>The instructor's demo implementation of the messaging passing algorithms: <a href="example-programs/SCBayesNet.py">SCBayesNet.py</a>, <a href="example-programs/bn-cancer.py">bn-cancer.py</a>, <a href="example-programs/bn-earthequake.py">bn-earthequake.py</a></li>
+</ul>
+<hr>
+<h2 align="left"><a name="lecturelab" id="lecturelab"></a>Syllabus</h2>
+
+<table style="width: 933px; height: 1528px;" border="1" bordercolor="#000000" cellpadding="4" cellspacing="0">
+
+  <col width="51"> <col width="118"> <col width="329"> <col width="135"> <tbody>
+    <tr valign="top">
+      <td bgcolor="#999999" height="29"> <br>
+      </td>
+      <td sdnum="1033;0;MMM DD" bgcolor="#999999">
+      <p><br>
+      </p>
+      </td>
+      <td bgcolor="#999999" width="329">
+      <p>Lectures</p>
+      </td>
+      <td bgcolor="#999999" width="135">
+      <p>Assignments</p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td height="251">
+      <ol>
+        <li> <br>
+        </li>
+      </ol>
+      </td>
+      <td sdval="40422" sdnum="1033;0;MMM DD">
+      <p>Sep 01</p>
+      </td>
+      <td width="329">
+      <p>Introduction [<a href="slides/lecture1.pdf">slides</a>]<br>
+      </p>
+      <ul>
+        <li>
+          <p>Concepts and challenges</p>
+        </li>
+        <li>
+          <p>Various paradigms in expert systems</p>
+        </li>
+        <li>
+          <p>Rule-based systems</p>
+        </li>
+        <li>
+          <p>Bayesian networks</p>
+        </li>
+      </ul>
+      </td>
+      <td width="135">
+      <p>[<a href="homeworks/hw1.pdf">hw1</a>]<br>
+      </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td bgcolor="#999999" height="48">
+      <ol start="2">
+        <li> <br>
+        </li>
+      </ol>
+      </td>
+      <td sdval="40429" sdnum="1033;0;MMM DD" bgcolor="#999999">
+      <p>Sep 08</p>
+      </td>
+      <td bgcolor="#999999" width="329">
+      <p>No class</p>
+      </td>
+      <td bgcolor="#999999" width="135">
+      <p><br>
+      </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td height="48">
+      <ol start="3">
+        <li> <br>
+        </li>
+      </ol>
+      </td>
+      <td sdval="40436" sdnum="1033;0;MMM DD">
+      <p>Sep 15</p>
+      </td>
+      <td width="329">
+      <p>Knowledge representation and methods of inference [<a href="slides/lecture2.pdf">slides</a>] </p>
+      </td>
+      <td width="135">
+      <p><a href="internal/hw2.pdf">hw2</a> [<a href="internal/hw2-answer.pdf">discussion</a>]
+      </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td height="148">
+      <ol start="4">
+        <li> <br>
+        </li>
+      </ol>
+      </td>
+      <td sdval="40443" sdnum="1033;0;MMM DD">
+      <p>Sep 22</p>
+      </td>
+      <td width="329">
+      Probability in AI [<a href="slides/lecture3.pdf">slides</a>]<br>
+      <ul>
+        <li>
+          Probability and conditional probability
+        </li>
+        <li>
+          Independence
+        </li>
+        <li>
+          Bayesian rules
+        </li>
+        <li>
+          Bayesian views (in comparison with frequentism and
+propensity interpretation)
+        </li>
+        <li>
+          Utility theories and decision making
+        </li>
+      </ul>
+      </td>
+      <td width="135">
+      <p><a href="homeworks/hw3.pdf">hw3</a> [<a href="internal/hw3-answer.pdf">discussion</a>]
+      </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td height="44">
+      <ol start="5">
+        <li> <br>
+        </li>
+      </ol>
+      </td>
+      <td sdval="40450" sdnum="1033;0;MMM DD">
+      <p>Sep 29</p>
+      </td>
+      <td width="329">
+      <p>Bayesian Networks &amp; Project Assignments [<a href="slides/lecture3.pdf">slides</a>]<br>
+      </p>
+      </td>
+      <td width="135">
+      <p>[<a href="projects/projects.pdf">project assignment</a>] <br>
+      </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td height="48">
+      <ol start="6">
+        <li> <br>
+        </li>
+      </ol>
+      </td>
+      <td sdval="40457" sdnum="1033;0;MMM DD">
+      <p>Oct 06</p>
+      </td>
+      <td width="329">
+      <p>Inference in Bayesian Networks (I)&nbsp; [<a href="slides/review1.pdf">review</a>] [<a href="slides/lecture5.pdf">slides</a>] </p>
+      </td>
+      <td width="135">
+      <p><br>
+      </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td height="48">
+      <ol start="7">
+        <li> <br>
+        </li>
+      </ol>
+      </td>
+      <td sdval="40464" sdnum="1033;0;MMM DD">
+      <p>Oct 13</p>
+      </td>
+      <td width="329">
+      <p>Inference in Bayesian Networks (II)  [<a href="slides/lecture5.pdf">slides</a>]<br>
+        A demo messaging passing implementation in Python: <a href="example-programs/SCBayesNet.py">SCBayesNet.py</a>, <a href="example-programs/bn-cancer.py">bn-cancer.py</a>, <a href="example-programs/bn-earthequake.py">bn-earthequake.py</a></p>
+      </td>
+      <td width="135">
+      <p><span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;"><span class="Apple-style-span" style="border-collapse: collapse; font-family: arial,sans-serif; font-size: 13px;">Problem 1 of Chapter 3 in Korb&amp; Nicholson's book.</span></span>
+      </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td height="48">
+      <ol start="9">
+        <li> <br>
+        </li>
+      </ol>
+      </td>
+      <td sdval="40478" sdnum="1033;0;MMM DD">
+      <p>Oct 20</p>
+      </td>
+      <td width="329">
+      <p>Inference in Bayesian Networks (III) - Junction Tree Algorithms [<a href="slides/lecture6.pdf">slides</a>] <br>
+</p>
+      </td>
+      <td width="135">
+      <p><br>
+      </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td bgcolor="#ccffff" height="48"><ol start="8">
+          <li> <br>
+          </li>
+      </ol></td>
+      <td sdval="40471" sdnum="1033;0;MMM DD" bgcolor="#ccffff"><p>Oct 27</p></td>
+      <td bgcolor="#ccffff"><p>Mid-term Exam</p></td>
+      <td bgcolor="#ccffff"><p><br>
+      </p></td>
+    </tr>
+    <tr valign="top">
+      <td height="48">
+      <ol start="10">
+        <li> <br>
+        </li>
+      </ol>
+      </td>
+      <td sdval="40485" sdnum="1033;0;MMM DD">
+      <p>Nov 03</p>
+      </td>
+      <td width="329">
+      <p> Learning in Bayesian Networks [<a href="slides/lecture7.pdf">slides</a>] </p>
+      </td>
+      <td width="135">
+      <p><br>
+      </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td height="48">
+      <ol start="11">
+        <li> <br>
+        </li>
+      </ol>
+      </td>
+      <td sdval="40492" sdnum="1033;0;MMM DD">
+      <p>Nov 10</p>
+      </td>
+      <td width="329">
+      <p>Decision Networks [<a href="slides/lecture8.pdf">slides</a>] </p>
+      </td>
+      <td width="135">
+      <p><br>
+      </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td height="48">
+      <ol start="12">
+        <li> <br>
+        </li>
+      </ol>
+      </td>
+      <td sdval="40499" sdnum="1033;0;MMM DD">
+      <p>Nov 17</p>
+      </td>
+      <td width="329">
+      <p>Knowledge Engineering with Bayesian Network [<a href="slides/lecture9.pdf">slides</a>] </p>
+      </td>
+      <td width="135">
+      <p>[<a href="homeworks/hw5.pdf">hw5</a>] [<a href="readings/matilda.pdf">Matilda.pdf</a>] [<a href="http://www.csse.monash.edu.au/bai/software/Deploy.zip">software</a>: run on Windows XP or Linux/Wine]<br>
+      </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td height="48">
+      <ol start="13">
+        <li> <br>
+        </li>
+      </ol>
+      </td>
+      <td sdval="40506" sdnum="1033;0;MMM DD">
+      <p>Nov 24</p>
+      </td>
+      <td width="329">
+      <p>Applications of Bayesian Networks [<a href="slides/lecture10.pdf">slides</a>] </p>
+      </td>
+      <td width="135">
+      <p><br>
+      </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td height="48">
+      <ol start="14">
+        <li> <br>
+        </li>
+      </ol>
+      </td>
+      <td sdval="40513" sdnum="1033;0;MMM DD">
+      <p>Dec 01</p>
+      </td>
+      <td width="329">
+      <p>Other formalisms of uncertainty reasoning [<a href="slides/lecture11.pdf">slides</a>] </p>
+      <ul>
+        <li> Default logic </li>
+        <li>Certainty factor</li>
+        <li> Dempster-Shafer theory </li>
+        <li>Fuzzy set</li>
+      </ul></td>
+      <td width="135">
+      <p><br>
+      </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td height="56">
+      <ol start="15">
+        <li> <br>
+        </li>
+      </ol>
+      </td>
+      <td sdval="40520" sdnum="1033;0;MMM DD">
+      <p>Dec 08</p>
+      </td>
+      <td width="329">
+      <p><a href="projects/roster.pdf">Project presentations</a> [<a href="slides/review2.pdf">review2</a>] </p>
+      </td>
+      <td width="135">
+      <p><br>
+      </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td bgcolor="#ccffff" height="44">
+      <ol start="16">
+        <li> <br>
+        </li>
+      </ol>
+      </td>
+      <td sdval="40527" sdnum="1033;0;MMM DD" bgcolor="#ccffff">
+      <p>Dec 15</p>
+      </td>
+      <td bgcolor="#ccffff" width="329">
+Final Exam
+      </td>
+      <td bgcolor="#ccffff" width="135">
+      <p><br>
+      </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td bgcolor="#999999" height="44">
+      <ol start="17">
+        <li> <br>
+        </li>
+      </ol>
+      </td>
+      <td sdval="40534" sdnum="1033;0;MMM DD" bgcolor="#999999">
+      <p>Dec 22</p>
+      </td>
+      <td bgcolor="#999999" width="329">
+      <p><br>
+      </p>
+      </td>
+      <td bgcolor="#999999" width="135">
+      <p><br>
+      </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<hr>
+<h1><a name="gradepolicy" id="gradepolicy"></a>Grades and Policy</h1>
+
+<p>Your grade will be composed of the following: </p>
+
+<ul>
+
+  <li>Homework: 1/3 </li>
+  <li>Mid-term exam and term project: 1/3</li>
+  <li>Final exam: 1/3</li>
+</ul>
+
+Please hand in your homework before each class meeting. Please
+acknowledge all sources, including those in the class from whom you
+obtain the ideas. Late homework will not be accepted.
+<hr>
+<div align="center">
+<p align="left">Yuqing Tang, 2010</p>
+</div>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1701219-1";
+urchinTracker();
+</script>
+</body></html>

@@ -1,0 +1,83 @@
+/** Tang's Homepage style**/
+/*Layout*/
+#topHead{
+	margin: 0;
+	border-bottom: 1px solid #cccccc;
+	width: 100%;
+	padding: 10px 0px;
+}
+
+#navBar{
+	margin: 0 80% 0 0;
+/*	background-color: #eeeeee;*/
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	padding: 0px;
+  	height: 100%;
+}
+
+#content{
+  	float:right;
+	width: 75%;
+	margin: 0;
+	padding: 0 3% 0 0;
+}
+
+#sitefoot{
+	clear: both;
+	font-size: small;
+	color: #000000;
+	padding: 0;
+	margin-top: 0px;
+	border-top: 1px;
+}
+
+#sectionLinks{
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+	border-bottom: 1px solid #cccccc;
+}
+#addressdiv {
+	margin: 0 80% 0 0;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	padding: 0px;
+	height: 100%;
+}
+
+.styleNameTitle {
+	font-size: 40px;
+	font-weight: bold;
+	font-style: italic;
+  
+}
+
+.styleTitle {
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.pagethicktitle {
+	font-size: 40px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	/*color: #003399;*/
+}
+
+.pagetitle {
+	font-size: 36px;
+	font-style: italic;	
+	font-family: Arial, Helvetica, sans-serif;
+	/*	font-weight: bold;*/
+}
+.pagetitle	a {
+		text-decoration: none;
+		color: black;				
+}
+
+.pagesubtitle {
+	font-size: 20;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+}

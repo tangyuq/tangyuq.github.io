@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Yuqing Tang</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.2800.1400" name="GENERATOR">
+<link rel="stylesheet" href="../homepage.css" type="text/css">
+<style type="text/css"></style>
+</head>
+<body style="background-color: rgb(255, 255, 255); background-image: url();">
+   
+<!--#include virtual="head.htm" -->
+   
+<div id="content">
+<h2>Publications</h2>
+<p><big>&#8226;
+  <a href="sort_date.htm">Sorted by Date</a> &#8226;
+  <a href="class_type.htm">Classified by Publication Type</a> &#8226;
+  <a href="class_rescat.htm">Classified by Research Category</a> &#8226;
+  <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/t/Tang:Yuqing.html" target="_blank">DBLP</a>
+  &#8226;
+<a href="http://portal.acm.org/author_page.cfm?id=81100641069" target="_blank">ACM profile</a> 
+  &#8226;
+  </big></p>
+<h3><b> Real root-finding</b></h3>
+<p class="citation"><a href="http://comet.lehman.cuny.edu/vpan"> Victor Y. Pan</a>,  Dmitriy Ivolgin,  Brian Murphy,  Rhys Eric	Rosholt, <a href="http://web.cs.gc.cuny.edu/~tang"> Yuqing Tang</a>,  Xinmao Wang, and  Xiaodong Yan. <b> Real root-finding</b>. In <i> Proceedings of the International Workshop on Symbolic-Numeric Computation</i>, pp. 161&ndash;169,  ACM, July 2007.</p>
+<h3>Download</h3>
+<p>
+  (unavailable)
+  </p>
+<h3>Abstract</h3>
+<p class="abstract">
+      (unavailable)
+     </p>
+<a href="pan07Realroot-finding.bib"><h3>BibTeX</h3></a><pre>@INPROCEEDINGS{pan07Realroot-finding,
+  author = {Victor Y. Pan and Dmitriy Ivolgin and Brian Murphy and Rhys Eric
+	Rosholt and Yuqing Tang and Xinmao Wang and Xiaodong Yan},
+  title = {Real root-finding},
+  booktitle = {Proceedings of the International Workshop on Symbolic-Numeric Computation},
+  year = {2007},
+  editor = {Stephen M. Watt and Jan Verschelde},
+  pages = {161-169},
+  month = {July},
+  publisher = {ACM},
+  b2h_pubtype = {Refereed Workshop and Symposium},
+  b2h_rescat = {Matrix Eigen Solving and Polynomial Root-findings},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  ee = {http://doi.acm.org/10.1145/1277500.1277524},
+  owner = {tang},
+  timestamp = {2008.08.18}
+}
+</pre>
+</div>
+   
+<!--#include virtual="leftnav.htm" -->
+<!--#include virtual="sitefoot.htm" -->
+   
+</body>
+</html>

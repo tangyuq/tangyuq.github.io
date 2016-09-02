@@ -1,0 +1,7 @@
+<html>
+	<head>
+	<script>
+	window.document.location.href = "cis10.html";
+	</script>
+	</head>
+</html>
