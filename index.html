@@ -33,8 +33,20 @@
 	font-family: Arial, Helvetica, sans-serif;
 }
 -->
-  </style></head><body style="background-color: rgb(255, 255, 255); background-image: url();">
-<link rel="import" href="head.htm">
+  </style>
+
+   <script src="./externals/js/jquery-2.1.0.min.js"></script>
+         <script>
+            $(document).ready(function() {
+                 $( "#topHead" ).load( "head.htm #topHead" );
+                 $( "#navBar" ).load( "leftnav.htm #navBar" );
+                 $( "#sitefoot" ).load( "sitefoot.htm #sitefoot" );            });
+        </script>
+
+</head>
+
+<body style="background-color: rgb(255, 255, 255); background-image: url();">
+<div id="topHead"/> 
 
 <div id="content">
 
@@ -62,7 +74,8 @@ sub-topics: </p>
 
 </div>
 
-<link rel="import" href="leftnav.htm">
-<link rel="import" href="sitefoot.htm">
+
+<div id="navBar"/>
+<div id="sitefoot"/>
 
 </body></html>
