@@ -17,10 +17,19 @@
 }
 -->
 </style>
+
+   <script src="./externals/js/jquery-2.1.0.min.js"></script>
+   <script src="./js/layout.js"></script>
+   <script>
+        $(document).ready(function() {
+                loadLayout();
+        });
+   </script>
+
 </head>
 <body bgcolor="#ffffff" background="">
 
-<?php include("head.php"); ?>
+<div id="topHead"> </div> 
 
 <div id="content">
   <h2><a href="http://agents.sci.brooklyn.cuny.edu/">Agents Lab<img src="agent-sepia-w80.gif" alt="Agents Lab" width="80" height="80" border="0" longdesc="http://agents.sci.brooklyn.cuny.edu/"></a></h2>
@@ -31,7 +40,7 @@
   </ul>
   <p>&nbsp;</p>
 </div>
-<?php include("leftnav.php"); ?>
-<?php include("sitefoot.php"); ?>
 
+<div id="navBar"></div>
+<div id="sitefoot"></div>
 </body></html>

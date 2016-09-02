@@ -12,9 +12,15 @@
 
   
   <link rel="stylesheet" href="homepage.css" type="text/css">
-
+   <script src="./externals/js/jquery-2.1.0.min.js"></script>
+   <script src="./js/layout.js"></script>
+   <script>
+        $(document).ready(function() {
+                loadLayout();
+        });
+   </script>
 </head><body style="background-color: rgb(255, 255, 255); background-image: url();">
-<!--#include virtual="head.htm" -->
+<div id="topHead"> </div> 
 <div id="content">
 <h2>Research projects</h2>
 <ul>
@@ -24,9 +30,10 @@ Exploitation of Distributed, Uncertain, and Obfuscated Information</a>
   <li> ANTICO </li>
 </ul>
 The projects that I had been involved in at CUNY can be found <a href="previous_projects.htm">here</a>.<br>
-[<a href="./publications/class_rescat.htm">A list of publications</a>]
+[<a href="./publications.htm#">A list of publications</a>]
 </div>
 
-<!--#include virtual="leftnav.htm" -->
-<!--#include virtual="sitefoot.htm" -->
+
+<div id="navBar"></div>
+<div id="sitefoot"></div>
 </body></html>

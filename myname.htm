@@ -17,10 +17,18 @@
 }
 -->
 </style>
+
+   <script src="./externals/js/jquery-2.1.0.min.js"></script>
+   <script src="./js/layout.js"></script>
+   <script>
+        $(document).ready(function() {
+                loadLayout();
+        });
+   </script>
 </head>
 <body bgcolor="#ffffff" background="">
 
-<!--#include virtual="head.htm" -->
+<div id="topHead"> </div> 
 
 <div id="content">
   <h2>My Chinese Name: 汤宇清  </h2>
@@ -80,7 +88,7 @@
   </table>
   <p>&nbsp;</p>
 </div>
-<!--#include virtual="leftnav.htm" -->
-<!--#include virtual="sitefoot.htm" -->
 
+<div id="navBar"></div>
+<div id="sitefoot"></div>
 </body></html>

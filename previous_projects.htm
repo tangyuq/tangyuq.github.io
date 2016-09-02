@@ -13,8 +13,17 @@
   <meta content="MSHTML 6.00.2800.1400" name="GENERATOR">
 
   
-  <link rel="stylesheet" href="homepage.css" type="text/css"></head><body style="background-color: rgb(255, 255, 255); background-image: url();">
-<!--#include virtual="head.htm" -->
+  <link rel="stylesheet" href="homepage.css" type="text/css">
+   <script src="./externals/js/jquery-2.1.0.min.js"></script>
+   <script src="./js/layout.js"></script>
+   <script>
+        $(document).ready(function() {
+                loadLayout();
+        });
+   </script>    
+    
+    </head><body style="background-color: rgb(255, 255, 255); background-image: url();">
+<div id="topHead"> </div> 
 <div id="content">
 <h2>Research projects at <a href="http://www.cs.gc.cuny.edu">CUNY</a><br>
 </h2>
@@ -49,5 +58,8 @@ Victor Pan</a></li>
 
 [<a href="./publications/class_rescat.htm">A list of publications</a>]
 </div>
-<!--#include virtual="leftnav.htm" -->
-<!--#include virtual="sitefoot.htm" --></body></html>
+
+<div id="navBar"></div>
+<div id="sitefoot"></div>
+    
+</body></html>

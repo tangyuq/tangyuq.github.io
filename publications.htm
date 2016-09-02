@@ -15,31 +15,35 @@
         <script src="./externals/mustache/mustache.js"></script>
         <script src="./externals/js/Parser.js"></script>
         <script src="./js/publication.js"></script>
-
+        <script src="./js/layout.js"></script>
 
         <script>
-            $(document).ready(function() {
+            $(document).ready(function () {
+               
+
                 var myPub = new MyPublication({pubDiv: "#publications"});
                 myPub.init();
-                $("#linkByDate").click(function() {
+                $("#linkByDate").click(function () {
                     myPub.renderByYear();
                     return false;
                 });
-                $("#linkByPubtype").click(function() {
+                $("#linkByPubtype").click(function () {
                     myPub.renderByPubtype();
                     return false;
                 });
-                $("#linkByResCat").click(function() {
+                $("#linkByResCat").click(function () {
                     myPub.renderByResCat();
                     return false;
                 });
+                
+                loadLayout();
             });
         </script>
 
     </head>
     <body style="background-color: rgb(255, 255, 255); background-image: url();">
 
-        <!--#include virtual="head.htm" -->
+        <div id="topHead"> </div> 
 
         <div id="content">
             <h2>Publications</h2>
@@ -56,8 +60,9 @@
             <div id="publications"> </div>
         </div>
 
-        <!--#include virtual="leftnav.htm" -->
-        <!--#include virtual="sitefoot.htm" -->
+
+        <div id="navBar"></div>
+        <div id="sitefoot"></div>
 
     </body>
 </html>

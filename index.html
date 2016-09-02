@@ -36,12 +36,12 @@
   </style>
 
    <script src="./externals/js/jquery-2.1.0.min.js"></script>
-         <script>
-            $(document).ready(function() {
-                 $( "#topHead" ).load( "head.htm" );
-                 $( "#navBar" ).load( "leftnav.htm" );
-                 $( "#sitefoot" ).load( "sitefoot.htm" );            });
-        </script>
+   <script src="./js/layout.js"></script>
+   <script>
+        $(document).ready(function() {
+                loadLayout();
+        });
+   </script>
 
 </head>
 
@@ -53,10 +53,12 @@
 <table style="text-align: left; width: 685px; height: 32px;" border="0" cellpadding="0" cellspacing="0" width="640">
 <tbody>
 <tr>
-<td style="vertical-align: top;" width="639">
-<div style="text-align: center;"><img style="width: 360px; height: 270px;" src="dc-09.jpg" alt="me" align="middle"><br>
+<td style="vertical-align: top;">
+<div style="text-align: center;">
+    <img style="width: 360px; height: 270px;" src="dc-09.jpg" alt="me"><br>
 </div>
-      I am a postdoctoral fellow at the <a href="http://www.ri.cmu.edu/">Robotics Institute</a> of <a href="http://www.cmu.edu">Carnegie Mellon University</a> working with <a href="http://www.cs.cmu.edu/%7Ekatia/">Prof. Katia Sycara</a>. 
+     I am an Applied Scientist at Microsoft. Previously, I was  a Postdoctoral Fellow and then a Project Scientist at the 
+     <a href="http://www.ri.cmu.edu/">Robotics Institute</a> of <a href="http://www.cmu.edu">Carnegie Mellon University</a>. 
 
 <p>I am interested in the establishment of <span style="font-weight: bold;">social intelligence</span>
 for a system of agents (pure machine agents or hybrid
